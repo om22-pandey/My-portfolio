@@ -5,7 +5,7 @@ This is a fully responsive personal portfolio website built using **HTML**, **CS
 
 ## 🌐 Live Demo
 
-You can view the live website here: [https://om22-pandey.github.io/My-portfolio](https://om22-pandey.github.io/My-portfolio)
+You can view the live website here: [https://om22-pandey.github.io/portfolio](https://om22-pandey.github.io/portfolio)
 
 ## 📁 Project Structure
 portfolio/
