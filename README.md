@@ -1,8 +1,8 @@
 # My-portfolio
 # 💼 Personal Portfolio Website
 
-This is a fully responsive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. It showcases my web development projects, skills, and includes a working **contact form**.
-
+This is a personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. It showcases my web development projects, skills, and includes a working **contact form**.
+⚠️ Note: The website is not fully responsive yet and may not display correctly on mobile devices. I'm actively working on improving the responsiveness, till then please use laptops and tablets for better experience.
 ## 🌐 Live Demo
 
 You can view the live website here: [https://om22-pandey.github.io/My-portfolio/](https://om22-pandey.github.io/My-portfolio/)
@@ -16,7 +16,7 @@ portfolio/
 
 ## ✨ Features
 
-- 🎯 **Responsive design** – mobile, tablet & desktop friendly
+- 🎯 **Responsive design** – tablet & desktop friendly
 - 🖼️ **Project showcase** – highlights my projects with images and links
 - 📧 **Working contact form** – allows visitors to send messages directly
 - 🌙 **Clean UI/UX** – simple, minimal design for easy navigation
